@@ -1,0 +1,13 @@
+{% extends "base/base.html" %} {% block title %}Seller Register{% endblock %}
+
+{% block content %}
+
+<h4>Create a seller account:</h4>
+
+<form method="POST" action="">
+    {% csrf_token %}
+    {{ form }}
+    <button type="submit">Register</button>
+</form>
+
+{% endblock %}
