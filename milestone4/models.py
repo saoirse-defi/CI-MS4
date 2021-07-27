@@ -12,7 +12,8 @@ class User(models.Model):
     email = models.CharField(max_length=75, null=False, blank=False)
     town = models.CharField(max_length=20, null=False, blank=False)
     county = models.CharField(max_length=20, null=False, blank=False)
-    join_date = models.DateField()
+    join_date = models.DateField(default="2021-01-01")
+    password = models.CharField(max_length=75, null=False, blank=False, default="")
 
     def __str__(self):
         return self.username
@@ -20,8 +21,8 @@ class User(models.Model):
 
 class Seller(User):
     # rating out of 5, 1 decimal place
-    rating = models.DecimalField(max_digits=2, decimal_places=1)
-    sales = models.IntegerField()
+    rating = models.DecimalField(max_digits=2, decimal_places=1, default=5.0)
+    sales = models.IntegerField(default=0)
 
 
 class Buyer(User):
