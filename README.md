@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Over the past decade, the world has truly become a global economy. Global supply chain expansion has provided unparalleled choice for the consumer. In relation to the food industry, the term 'out of season' has become a thing of the past. No longer do we have to wait until the summer months to enjoy berries or winter for citrus fruits. With the popularity of grocery chains such as Lidl & Aldi, locally sourced fruit & vegetables are being phased out for cheaper produce which is normally shipped halfway across the globe. To endure this expedition, the produce is harvasted well before it has reached maturity and ripened in shipping containers by the use of 'controlled environments'. This produce tends to turn bad very quickly due to this unnatural journey, sometimes within 48 hours of purchase causing massive food wastage. Most of us have lost the connection to the food we eat.
+Over the past decade, the world has truly become a global economy. Global supply chain expansion has provided unparalleled choice for the consumer. In relation to the food industry, the term 'out of season' has become a thing of the past. No longer do we have to wait until the summer months to enjoy berries or winter for citrus fruits. With the popularity of grocery chains such as Lidl & Aldi, locally sourced fruit & vegetables are being phased out for cheaper produce which is normally shipped halfway across the globe. To endure this expedition, the produce is harvested well before it has reached maturity and ripened in shipping containers by the use of 'controlled environments'. This produce tends to turn bad very quickly due to this unnatural journey, sometimes within 48 hours of purchase causing massive food wastage. Most of us have lost the connection to the food we eat.
 
 With my final milestone project for Code Institute, I will attempt to tackle this problem within our society. My goals is to get Ireland eating locally & in season again by creating a marketplace to connect local producers with consumers. My project Farm2Table aims to reduce the friction associated with sourcing local produce by having all local producers of fruit & veg in one marketplace. This environment will inspire competition between producers, allowing the consumers to easily find the best price for their local fruit & veg.
 
@@ -13,7 +13,7 @@ With my final milestone project for Code Institute, I will attempt to tackle thi
 
 ### Future Features
 
-This section will outline potential features which I would like to implement in future.
+This section will outline potential features which I would like to implement in the future.
 
 
 ## Considerations
@@ -38,7 +38,7 @@ This section will outline goals set out by application creator both in relation 
 
 #### Business Goals
 
-Currently I have identified 3 possible streams of income this project would be able to generate. 
+Currently, I have identified 3 possible streams of income this project would be able to generate. 
 
 * A small fee will be applied to each purchase made within the application for connecting the producer with the consumer & processing payment between the 2 parties.
 
@@ -50,14 +50,37 @@ Currently I have identified 3 possible streams of income this project would be a
 ### User Stories
 
 |User Type |I want to be able to...  | So that I can... |
-|:--- | ---: | :---:|
-|center text|center text|center text|
+| :--- | :--- | :--- |
 |Seller|Add my listing to a marketplace|I can attract orders from a larger number of customers|
-|Seller|cell data2|cell data3|
-|Seller|cell data2|cell data3|
-|Seller|cell data2|cell data3|
-|Seller|cell data2|cell data3|
-|Seller|cell data2|cell data3|
+|Seller|Display product information|Allow the consumer to make an informed purchase|
+|Seller|Post a photo of the produce|Entice customers to purchase my produce|
+|Seller|Update listings|Change product descriptions, availability or pricing|
+|Seller|Delete listings|Remove items that are no longer for sale|
+|Seller|Receive reviews from consumers|See areas at which I can improve upon|
+|Seller|Display my reviews to the end user|Encourage new users to choose me over my competitors|
+|Seller|See the pricing of other producers|Regulate my pricing accordingly|
+|Seller|Update listings|Change product descriptions, availability or pricing|
+|Seller|Provide delivery options to the customer|Avoid the customer having to collect the order|
+|  |  |  |
+|Buyer|To view all listings in one marketplace|Find the best price or closest producer|
+|Buyer|View individual product details|Make an informed purchase|
+|Buyer|Easily view the total of my purchases|Control how much I am spending|
+|Buyer|To view my previous orders|Compare current pricing or to review my spending|
+|Buyer|Sort marketplace listings by category|Search for exactly the type of product I want|
+|Buyer|Sort marketplace listings by price|Find the best price|
+|Buyer|Sort marketplace listings by a number of categories simultaneously|Exclude product types that I'm not looking for|
+|Buyer|Pay for my order within the application|Avoid payment upon collection|
+|Buyer|Adjust the quantity of items within my shopping bag||
+|Buyer|View order confirmation after checkout||
+|Buyer|View the seller location before checkout||
+|  |  |  |
+|Site User|Easily register an account|Have a profile in order to start placing orders|
+|Site User|Easily log in/logout|Access my profile|
+|Site User|Change my password|Recover access to my account in case I get locked out|
+|Site User|Receive an email confirmation after registration|Verify that my registration was successful|
+|Site User|Have a personalised user profile|View my previous orders|
+|Site User|Easily make or receive secure payments|Place orders within the application|
+|  |  |  |
 
 
 1. As a user of this web application I want:
