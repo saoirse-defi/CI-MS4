@@ -1,9 +1,12 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-# Code Institute, Milestone 3: HASHBOARD
+# Code Institute, Milestone 4: Farm2Table
 
 ## Introduction
 
+Over the past decade, the world has truly become a global economy. Global supply chain expansion has provided unparalleled choice for the consumer. In relation to the food industry, the term 'out of season' has become a thing of the past. No longer do we have to wait until the summer months to enjoy berries or winter for citrus fruits. With the popularity of grocery chains such as Lidl & Aldi, locally sourced fruit & vegetables are being phased out for cheaper produce which is normally shipped halfway across the globe. To endure this expedition, the produce is harvasted well before it has reached maturity and ripened in shipping containers by the use of 'controlled environments'. This produce tends to turn bad very quickly due to this unnatural journey, sometimes within 48 hours of purchase causing massive food wastage. Most of us have lost the connection to the food we eat.
+
+With my final milestone project for Code Institute, I will attempt to tackle this problem within our society. My goals is to get Ireland eating locally & in season again by creating a marketplace to connect local producers with consumers. My project Farm2Table aims to reduce the friction associated with sourcing local produce by having all local producers of fruit & veg in one marketplace. This environment will inspire competition between producers, allowing the consumers to easily find the best price for their local fruit & veg.
 
 ### Notes for Assessment Team
 
@@ -22,6 +25,7 @@ This section will outline potential features which I would like to implement in 
 
 ### Project Goals
 
+The goal of this project is to get Ireland eating locally again by creating a marketplace where fruit & vegetable producers will compete for orders.
 
 ### User Goals
 
@@ -34,8 +38,26 @@ This section will outline goals set out by application creator both in relation 
 
 #### Business Goals
 
+Currently I have identified 3 possible streams of income this project would be able to generate. 
+
+* A small fee will be applied to each purchase made within the application for connecting the producer with the consumer & processing payment between the 2 parties.
+
+* Producers will have the ability to purchase premium Farm2Table memberships giving them access to additional features, such as being highlighted on the front page of the website, ad-free storefronts.
+
+* Advertising revenue will be generated from the web traffic on the application.
+
 
 ### User Stories
+
+|User Type |I want to be able to...  | So that I can... |
+|:--- | ---: | :---:|
+|center text|center text|center text|
+|Seller|Add my listing to a marketplace|I can attract orders from a larger number of customers|
+|Seller|cell data2|cell data3|
+|Seller|cell data2|cell data3|
+|Seller|cell data2|cell data3|
+|Seller|cell data2|cell data3|
+|Seller|cell data2|cell data3|
 
 
 1. As a user of this web application I want:
